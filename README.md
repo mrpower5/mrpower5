@@ -25,8 +25,6 @@ My name is Mitch Powers. I am currently a senior Mechanical Engineering student 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mitchell-powers-1a4955229/)
 
-![Metrics](https://metrics.lecoq.io/mrpower5?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpower5&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
